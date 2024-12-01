@@ -45,7 +45,8 @@ endmodule
 
 
 **RTL**
-  ![WhatsApp Image 2024-12-01 at 14 19 50_63bf36b4](https://github.com/user-attachments/assets/43a8045e-404c-4396-918f-6c926257978e)
+![WhatsApp Image 2024-12-01 at 14 19 52_5f5aa51e](https://github.com/user-attachments/assets/a9bb13e2-2ff8-4c45-8e8a-7a9d458657eb)
+
 **RTL realization**
   ![WhatsApp Image 2024-12-01 at 14 19 50_63bf36b4](https://github.com/user-attachments/assets/43a8045e-404c-4396-918f-6c926257978e)
 **Result:**
