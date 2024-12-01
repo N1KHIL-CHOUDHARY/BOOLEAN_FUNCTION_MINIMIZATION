@@ -59,7 +59,7 @@ Developed by: RegisterNumber:(NIKHIL H)24900366
 
 **RTL**
 **Timing Diagram**
-     ![WhatsApp Image 2024-12-01 at 14 19 51_f063a62b](https://github.com/user-attachments/assets/f3a66c2c-29f2-449d-8eb0-7202bcb29f10)
+  ![WhatsApp Image 2024-12-01 at 14 19 50_63bf36b4](https://github.com/user-attachments/assets/43a8045e-404c-4396-918f-6c926257978e)
 
 **Result:**
 
